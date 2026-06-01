@@ -16,10 +16,10 @@ avec un bouton ou en retournant le réveil.
 
 ## Matériel
 
-- Carte STM32 NUCLEO-L152RE (STM32L152RET6)
-- Shield ISEN32 (afficheur, buzzer, moteur, boutons, potentiomètres, LED)
-- Shield X-NUCLEO-IKS01A3 (capteurs HTS221 et LSM6DSO)
+- Carte STM32 NUCLEO-L152RE
+- Shield ISEN32
+- Shield X-NUCLEO-IKS01A3
 
 ## Compilation
 
-Projet STM32CubeIDE : ouvrir le dossier, compiler (Build) puis flasher la carte via le ST-LINK intégré.
+Projet STM32CubeIDE : ouvrir le dossier, compiler puis flasher la carte via le ST-LINK intégré.
