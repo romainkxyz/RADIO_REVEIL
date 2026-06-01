@@ -1,0 +1,30 @@
+# Build output (regénéré par STM32CubeIDE)
+/Debug/
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# macOS
+.DS_Store
+
+# Fichiers temporaires Office
+~$*
+
+# Node (génération de la présentation)
+node_modules/
+package.json
+package-lock.json
+
+# Conversions présentation
+*.pdf
+slide-*.jpg
+
+# Fichiers hors code source
+*.pptx
+gen_deck.js
+MODE_EMPLOI.md
