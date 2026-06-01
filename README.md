@@ -68,7 +68,7 @@ Projet STM32CubeIDE : ouvrir le dossier, compiler puis flasher la carte via le S
 Le programme envoie des logs sur l'UART (température, humidité, gyroscope toutes les 30 s, et messages d'initialisation des capteurs).
 
 - Liaison : **USART2** (PA2 = TX, PA3 = RX), via le ST-LINK / port COM virtuel.
-- Configuration du terminal (PuTTY, CoolTerm, moniteur CubeIDE) :
+- Configuration du terminal (PuTTY, CoolTerm ou dans la console CubeIDE) :
 
 | Paramètre | Valeur |
 |-----------|--------|
@@ -77,5 +77,3 @@ Le programme envoie des logs sur l'UART (température, humidité, gyroscope tout
 | Parité | Aucune |
 | Bits de stop | 1 |
 | Contrôle de flux | Aucun |
-
-> Format résumé : **115200 8N1**.
