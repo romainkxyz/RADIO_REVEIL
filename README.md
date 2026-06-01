@@ -3,7 +3,7 @@
 Réveil embarqué réalisé sur **NUCLEO-L152RE** avec le shield **ISEN32** et le shield capteurs **X-NUCLEO-IKS01A3**.
 
 Il affiche l'heure, la date, la température et l'humidité sur un afficheur 7 segments,
-et déclenche une alarme programmable (buzzer + moteur vibrant) que l'on peut couper
+et déclenche une alarme programmable que l'on peut couper
 avec un bouton ou en retournant le réveil.
 
 ## Fonctionnalités
